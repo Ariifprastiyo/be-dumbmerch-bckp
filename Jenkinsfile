@@ -1,9 +1,9 @@
 def branch = "staging"
-def repo = "git@github.com:Ariifprastiyo/be-dumbmerchaps.git"
+def repo = "git@github.com:Ariifprastiyo/be-dumbmerch-bckp.git"
 def cred = "dumbmerch"
-def dir = "~/be-dumbmerch"
-def server = "ariif_prastiyo@34.87.136.172"
-def imagename = "be-dumbmerchaps"
+def dir = "~/be-dumbmerchaps"
+def server = "ariif_prastiyo@35.185.182.35"
+def imagename = "be-dumbmerch-bckp"
 def dockerusername = "ariif"
 
 pipeline {
