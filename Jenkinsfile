@@ -2,7 +2,7 @@ def branch = "production"
 def repo = "git@github.com:Ariifprastiyo/be-dumbmerch-bckp.git"
 def cred = "dumbmerch"
 def dir = "~/be-dumbmerch-bckp"
-def server = "ariif_prastiyo@34.125.198.99"
+def server = "ariif_prastiyo@34.125.170.178"
 def imagename = "be-dumbmerch-bckp"
 def dockerusername = "ariif"
 
